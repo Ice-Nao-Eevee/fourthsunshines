@@ -168,9 +168,9 @@
             this.lblregistrasi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(170)))), ((int)(((byte)(63)))), ((int)(((byte)(100)))));
             this.lblregistrasi.Location = new System.Drawing.Point(25, 37);
             this.lblregistrasi.Name = "lblregistrasi";
-            this.lblregistrasi.Size = new System.Drawing.Size(300, 35);
+            this.lblregistrasi.Size = new System.Drawing.Size(253, 35);
             this.lblregistrasi.TabIndex = 1;
-            this.lblregistrasi.Text = "Registrasi Pengguna";
+            this.lblregistrasi.Text = "Registrasi Admin";
             this.lblregistrasi.Click += new System.EventHandler(this.label1_Click);
             // 
             // lblAppName
